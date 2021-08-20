@@ -1,7 +1,7 @@
 {
   "name": "porfolio1",
   "version": "0.1.0",
-  "homepage": "http://nurhaqimkamaruddin.github.io/",
+  "homepage": "http://nurhaqimkamaruddin.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
