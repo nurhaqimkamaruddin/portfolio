@@ -100,21 +100,17 @@ export default {
             description: 'I helped in developing this accouting software from scratch using web2py python even I dont have any accounting background. Manage the flow of the software, experiencing startup entrepreneurship on first hand and deployed using Google Cloud Platform',
             caption: 'Python, MySQL, HTML, CSS, Vanilla Javascript, Google Cloud Platform',
             links: [
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <YouTube/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <GitHub/>},
                 {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <Language/>},
             ]
         },
         {
             tag: 'WordPress',
-            image: 'https://mybeezapp-7282cd.ingress-comporellon.easywp.com/wp-content/uploads/2021/07/MyBeezApp-Logo-3.png',
+            image: 'http://mybeezapp.com/wp-content/uploads/2021/07/MyBeezApp-Logo-3.png',
             title : 'MyBeezApp Landing Page using Wordpress',
             description: 'Developing landing page for MyBeezApp Accounting Software using Wordpress, containing salesletter, FAQ and contact form',
             caption: 'Wordpress, Elementor, NinjaForm, NameCheap, Google Cloud Platform',
             links: [
-                {link: 'https://mybeezapp-7282cd.ingress-comporellon.easywp.com',icon: <YouTube/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <GitHub/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <Language/>},
+                {link: 'http://mybeezapp.com',icon: <Language/>},
             ]
         },
         {
@@ -124,9 +120,7 @@ export default {
             description: 'Developing Quatro Nero Sdn. Bhd. company landing page using wordpress',
             caption: 'Wordpress, Elementor, NinjaForm, NameCheap, Google Cloud Platform',
             links: [
-                {link: 'http://quatronero.com/home/about/',icon: <YouTube/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <GitHub/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <Language/>},
+                {link: 'http://quatronero.com/home/about/',icon: <Language/>},
             ]
         },
         {
@@ -136,9 +130,8 @@ export default {
             description: 'Developing E-commerce using wordpress for kid clothes',
             caption: 'Wordpress, Elementor, NinjaForm, NameCheap, Stripe, WooCommerce',
             links: [
-                {link: 'https://lovekiddyhouse.com',icon: <YouTube/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <GitHub/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <Language/>},
+                {link: 'https://lovekiddyhouse.com',icon: <GitHub/>},
+                {link: 'https://lovekiddyhouse.com',icon: <Language/>},
             ]
         },
         {
@@ -148,9 +141,9 @@ export default {
             description: 'This is my project final year project which involved 5 types of machine learning algorith which are Logistic Regression, SVM, K-Nearest Neighbors, Decision Tree and Random Forest. I tested all algorithm and compared the performance using data from Wisconsin University. This is deployed using Flask and model is build using Python',
             caption: 'Machine Learning, Python, Flask',
             links: [
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <YouTube/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <GitHub/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <Language/>},
+                {link: 'https://github.com/nurhaqimkamaruddin/machinelearningbreastcancer',icon: <GitHub/>},
+                {link: 'https://github.com/nurhaqimkamaruddin/machinelearningbreastcancer',icon: <GitHub/>},
+                {link: 'https://github.com/nurhaqimkamaruddin/machinelearningbreastcancer',icon: <GitHub/>},
             ]
         },
         {
@@ -160,9 +153,9 @@ export default {
             description: 'This is a side project to improvised from previous project as I used images and tensorflow to build the model. This time i used convolutional neural network and used many optimizer to get the best performance in terms of data cleaning and algorithm tested',
             caption: 'CNN, Python, Tensorflow',
             links: [
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <YouTube/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <GitHub/>},
-                {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <Language/>},
+                {link: 'https://github.com/nurhaqimkamaruddin/deeplearningbreastcancer',icon: <GitHub/>},
+                {link: 'https://github.com/nurhaqimkamaruddin/deeplearningbreastcancer',icon: <GitHub/>},
+                {link: 'https://github.com/nurhaqimkamaruddin/deeplearningbreastcancer',icon: <GitHub/>},
             ]
         }
     ]
