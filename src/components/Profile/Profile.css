@@ -19,14 +19,14 @@
     color: var(--main-color);
 }
 .profile_image{
-    margin: -10px;
+    margin: 0px;
     width: 100%;
     -webkit-clip-path: polygon(0% 9%, 100% 0%, 100% 94%, 0% 100%);
     clip-path: polygon(0 9%,100% 0%, 100% 94%, 0% 100%);
 }
 .profile_image img{
-    width: 100%;
-    margin-left: 15px;
+    width: 110%;
+    margin-left: 0px;
 }
 /* Information */
 .profile_information{
