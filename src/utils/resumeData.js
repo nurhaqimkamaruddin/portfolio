@@ -95,12 +95,23 @@ export default {
     portfolio: [
         {
             tag: 'Web Development',
-            image: 'https://mybeezapp-7282cd.ingress-comporellon.easywp.com/wp-content/uploads/2021/07/MyBeezApp-Logo-3.png',
+            image: 'http://mybeezapp.com/wp-content/uploads/2021/07/MyBeezApp-Logo-3.png',
             title : 'MyBeezApp Accounting Software',
             description: 'I helped in developing this accouting software from scratch using web2py python even I dont have any accounting background. Manage the flow of the software, experiencing startup entrepreneurship on first hand and deployed using Google Cloud Platform',
             caption: 'Python, MySQL, HTML, CSS, Vanilla Javascript, Google Cloud Platform',
             links: [
                 {link: 'https://app.mybeezapp.com/mba/default/user/login?_next=/mba/default/index',icon: <Language/>},
+            ]
+        },
+        {
+            tag: 'Web Development',
+            image: 'https://raddevon.com/wp-content/uploads/2018/10/react.jpg',
+            title : 'React Portfolio',
+            description: 'I build my online portfolio using react,material ui and bootstrap',
+            caption: 'React and Material Ui',
+            links: [
+                {link: 'https://nurhaqimkamaruddin.github.io',icon: <Language/>},
+                {link: 'https://github.com/nurhaqimkamaruddin/portfolio',icon: <GitHub/>},
             ]
         },
         {
